@@ -1,0 +1,27 @@
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar ambientes virtuais
+.env/
+.venv/
+meu_ambiente/
+
+# Ignorar arquivos de configuração de IDEs
+.vscode/
+.idea/
+
+# Ignorar logs e arquivos temporários
+*.log
+*.tmp
+
+# Ignorar arquivos de credenciais sensíveis
+.env
+
+# Ignorar pastas específicas (se necessário)
+node_modules/
